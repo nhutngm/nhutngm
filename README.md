@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/minhnhut21](https://github.com/minhnhut21)
 
-- 📫 How to reach me **minhnhut.dev@gmail.com**
+- 📫 How to reach me **nhutminhh03@gmail.com**
 
 - 📄 Know about my experiences [CV here (Google Drive or PDF Link)](https://your-cv-link)
 
